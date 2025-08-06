@@ -18,7 +18,7 @@ Antes de iniciar, você precisa ter o Node.js e o MySQL instalados na sua máqui
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/Sabrinabreu/MindU2.git
+   git clone https://github.com/EmyAndrade/MindU.git
 
    ```
 
